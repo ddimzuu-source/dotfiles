@@ -10,5 +10,4 @@ My aesthetic Hyprland setup on CachyOS
 - **Discord Client:** Vesktop
 
 ## 📸 Screenshots
-
-
+![Desktop Preview](preview.png)
